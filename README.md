@@ -14,7 +14,7 @@ Projet conçu en équipe avec :Naomi,Lea,Federer
 
 ## L'expérience
 
-![Schéma de navigation](navigation.png)<img width="2455" height="1635" alt="Capture d’écran 2026-10-09 110353" src="https://github.com/user-attachments/assets/f5bd859e-2a3c-4438-88af-66708200071f" />
+![Schéma de navigation](navigation.png)
 
 
 ![Écran principal](ecran-principal.jpg)
